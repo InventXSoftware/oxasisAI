@@ -20,7 +20,7 @@
     "fastlane": "^0.1.0",
     "googleapis": "^46.0.0",
     "libphonenumber-js": "^1.7.20",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "luxon": "^1.12.1",
     "prop-types": "^15.7.2",
     "react": "16.9.0",
